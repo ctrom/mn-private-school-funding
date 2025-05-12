@@ -23,5 +23,5 @@ Govenor Tim Walz has propsed ending a Minnesota state subsidy of private school 
 **Answer:** Unknown. Whether or not this is _likely_ is left as an exercise for the reader.
 
 ### Sources:
-[^1]: https://www.cbsnews.com/minnesota/news/gov-tim-walz-taxpayer-funded-subsidies-private-schools/?intcid=CNM-00-10abd1h
-[^2]: https://www.kttc.com/2025/03/28/digging-deeper-current-funding-formula-minnesotas-public-schools/
+[^1]: [https://www.cbsnews.com/minnesota/news/gov-tim-walz-taxpayer-funded-subsidies-private-schools/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/minnesota/news/gov-tim-walz-taxpayer-funded-subsidies-private-schools/?intcid=CNM-00-10abd1h)
+[^2]: [https://www.kttc.com/2025/03/28/digging-deeper-current-funding-formula-minnesotas-public-schools/](https://www.kttc.com/2025/03/28/digging-deeper-current-funding-formula-minnesotas-public-schools/)
