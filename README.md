@@ -1,4 +1,4 @@
-<script src="/assets/js/costAnalysis.js"></script>
+<script src="{{ '/assets/js/costAnalysis.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
 Govenor Tim Walz has propsed ending a Minnesota state subsidy of private school education[^1]. The existing subsidy amounts to $1,140 per private school student per year and totals $109 million each year[^1]. The state of Minnesota currently pays $7,281 per public school student per year[^2].
 
