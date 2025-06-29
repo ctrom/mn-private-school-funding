@@ -25,7 +25,7 @@ Govenor Tim Walz has propsed ending a Minnesota state subsidy of private school 
 **Answer:** Unknown. Whether or not this is _likely_ is left as an exercise for the reader.
 
 <br>
-<span id="outputMathText"></span>% of the children currently in private schools switching to a public school would result in a net <span id="costAnalysis"></span> for the state.
+If the state subsidy was dropped and <span id="outputMathText"></span>% of the children currently in private schools switched to a public school, this would result in a net <span id="costAnalysis"></span> for the state.
 
 <input type="range" id="studentsMoving" step="0.1" min="0" max="25" oninput="updateText(this.value);">
 
